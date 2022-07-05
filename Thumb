@@ -1,0 +1,1023 @@
+.document-table .ReactVirtualized__Grid__innerScrollContainer .RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.document-table .ReactVirtualized__Grid__innerScrollContainer .RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.document-table .ReactVirtualized__Grid__innerScrollContainer .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.document-table .ReactVirtualized__Grid__innerScrollContainer .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.ReactVirtualized__Table__rowColumn span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.ReactVirtualized__Table__rowColumn span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.ReactVirtualized__Table__rowColumn span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.ReactVirtualized__Table__rowColumn span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.ReactVirtualized__Table__rowColumn span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+
+
+#tile__document .document-header-top-bar span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#tile__document .document-header-top-bar span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#tile__document .document-header-top-bar span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#tile__document .document-header-top-bar span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument #DocumentTitle span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument #DocumentTitle span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument #DocumentTitle span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument #DocumentTitle span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument #DocumentTitle span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument #DocumentTitle span.image-node__container.inline-block {
+	position: relative;
+	top: 3px;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument #DocumentTitle > div.document-title .image-node__container.group.inline-block.align-text-top .image-node [data-menu-type~=ImageNodeMenu] {
+	display: none;
+}
+#tile__document #document #DocumentTopRow #DropToOpenAsDocument #DocumentTitle > div.document-title .image-node__container.group.inline-block.align-text-top > div {
+	display: none;
+}
+#tile__document #document #hierarchy-editor > .fixed > div > .tree-node--children > .tree-node-container .EditorContainer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#tile__document #document #hierarchy-editor > .fixed > div > .tree-node--children > .tree-node-container .EditorContainer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#tile__document #document #hierarchy-editor > .fixed > div > .tree-node--children > .tree-node-container .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#tile__document #document #hierarchy-editor > .fixed > div > .tree-node--children > .tree-node-container .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+#tile__document #document #hierarchy-editor > .fixed > div > .tree-node--children > .tree-node-container .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+#document-sidebar span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#document-sidebar span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#document-sidebar span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#document-sidebar span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+#document-sidebar span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.hierarchy-editor__hidden-children span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.hierarchy-editor__hidden-children span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.hierarchy-editor__hidden-children span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.hierarchy-editor__hidden-children span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.hierarchy-editor__hidden-children span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.popup-menu .popup-menu__item--static span.RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.popup-menu .popup-menu__item--static span.RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.popup-menu .popup-menu__item--static span.RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .popup-menu__item--static span.RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.popup-menu .popup-menu__item--static span.RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu #document-hover-preview__popup > span .RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.popup-menu #document-hover-preview__popup > span .RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.popup-menu #document-hover-preview__popup > span .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu #document-hover-preview__popup > span .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.popup-menu #document-hover-preview__popup > span .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu [data-rem-tags*=tn] #document-hover-preview .RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.popup-menu [data-rem-tags*=tn] #document-hover-preview .RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.popup-menu [data-rem-tags*=tn] #document-hover-preview .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu [data-rem-tags*=tn] #document-hover-preview .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.popup-menu [data-rem-tags*=tn] #document-hover-preview .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .rem.isSearchResult .hierarchy-editor__tag-bar span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.popup-menu .rem.isSearchResult .hierarchy-editor__tag-bar span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.popup-menu .rem.isSearchResult .hierarchy-editor__tag-bar span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .rem.isSearchResult .hierarchy-editor__tag-bar span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.popup-menu .rem.isSearchResult .hierarchy-editor__tag-bar span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu div.search-result__rem-breadcrumbs + span > .RichTextViewer span.image-node__container.inline-block,
+.popup-menu .rem-powerup-icon + span > .RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.popup-menu div.search-result__rem-breadcrumbs + span > .RichTextViewer span.image-node__container.inline-block > div.image-node__container,
+.popup-menu .rem-powerup-icon + span > .RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.popup-menu div.search-result__rem-breadcrumbs + span > .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node,
+.popup-menu .rem-powerup-icon + span > .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu div.search-result__rem-breadcrumbs + span > .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]),
+.popup-menu .rem-powerup-icon + span > .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.popup-menu div.search-result__rem-breadcrumbs + span > .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width,
+.popup-menu .rem-powerup-icon + span > .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .EditorContainer.EditorContainerInline span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.popup-menu .EditorContainer.EditorContainerInline span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.popup-menu .EditorContainer.EditorContainerInline span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .EditorContainer.EditorContainerInline span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.popup-menu .EditorContainer.EditorContainerInline span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.popup-menu .RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.popup-menu .RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.popup-menu .RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .p-2 .RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.popup-menu .p-2 .RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.popup-menu .p-2 .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .p-2 .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.popup-menu .p-2 .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.popup-menu .px-2.py-3 .RichTextViewer > .image-node__container > .image-node__container.group.inline-block.align-text-top {
+	height: 1rem !important;
+	width: auto !important;
+	min-height: 1rem !important;
+	min-width: auto !important;
+}
+
+#Popup #PopupContent .p-4 .RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#Popup #PopupContent .p-4 .RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#Popup #PopupContent .p-4 .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#Popup #PopupContent .p-4 .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+#Popup #PopupContent .p-4 .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+#Popup #PopupContent #delete-confirm-popup span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#Popup #PopupContent #delete-confirm-popup span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#Popup #PopupContent #delete-confirm-popup span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#Popup #PopupContent #delete-confirm-popup span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+#Popup #PopupContent #delete-confirm-popup span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+#Popup #PopupContent #delete-confirm-popup .delete-confirm-popup__rem-section__item .RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#Popup #PopupContent #delete-confirm-popup .delete-confirm-popup__rem-section__item .RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#Popup #PopupContent #delete-confirm-popup .delete-confirm-popup__rem-section__item .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#Popup #PopupContent #delete-confirm-popup .delete-confirm-popup__rem-section__item .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+#Popup #PopupContent #delete-confirm-popup .delete-confirm-popup__rem-section__item .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+#Popup #PopupContent .document-popup-preview .document-header-top-bar .RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#Popup #PopupContent .document-popup-preview .document-header-top-bar .RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#Popup #PopupContent .document-popup-preview .document-header-top-bar .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#Popup #PopupContent .document-popup-preview .document-header-top-bar .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+#Popup #PopupContent .document-popup-preview .document-header-top-bar .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+[data-rem-tags~=tnn] .rem-header--1 .EditorContainer span.image-node__container.inline-block,
+[data-rem-tags~=tnn] .rem-header--2 .EditorContainer span.image-node__container.inline-block,
+[data-rem-tags~=tnn] .rem-header--3 .EditorContainer span.image-node__container.inline-block,
+[data-rem-tags~=tn] .EditorContainer span.image-node__container.inline-block {
+	height:  em;
+	width: auto;
+}
+[data-rem-tags~=tnn] .rem-header--1 .EditorContainer span.image-node__container.inline-block > div.image-node__container,
+[data-rem-tags~=tnn] .rem-header--2 .EditorContainer span.image-node__container.inline-block > div.image-node__container,
+[data-rem-tags~=tnn] .rem-header--3 .EditorContainer span.image-node__container.inline-block > div.image-node__container,
+[data-rem-tags~=tn] .EditorContainer span.image-node__container.inline-block > div.image-node__container {
+	height: 1.2em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+[data-rem-tags~=tnn] .rem-header--1 .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node,
+[data-rem-tags~=tnn] .rem-header--2 .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node,
+[data-rem-tags~=tnn] .rem-header--3 .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node,
+[data-rem-tags~=tn] .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+[data-rem-tags~=tnn] .rem-header--1 .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]),
+[data-rem-tags~=tnn] .rem-header--2 .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]),
+[data-rem-tags~=tnn] .rem-header--3 .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]),
+[data-rem-tags~=tn] .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+[data-rem-tags~=tnn] .rem-header--1 .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width,
+[data-rem-tags~=tnn] .rem-header--2 .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width,
+[data-rem-tags~=tnn] .rem-header--3 .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width,
+[data-rem-tags~=tn] .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+[data-rem-container-tags~=tnc] > .tree-node--children > .tree-node-container > .tree-node--parent .EditorContainer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+[data-rem-container-tags~=tnc] > .tree-node--children > .tree-node-container > .tree-node--parent .EditorContainer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+[data-rem-container-tags~=tnc] > .tree-node--children > .tree-node-container > .tree-node--parent .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+[data-rem-container-tags~=tnc] > .tree-node--children > .tree-node-container > .tree-node--parent .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+[data-rem-container-tags~=tnc] > .tree-node--children > .tree-node-container > .tree-node--parent .EditorContainer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.hierarchy-editor__tag-bar__tag .RichTextViewer {
+	display: flex;
+	align-items: center;
+}
+.hierarchy-editor__tag-bar__tag .RichTextViewer span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+	margin-right: 3px;
+}
+.hierarchy-editor__tag-bar__tag .RichTextViewer span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.hierarchy-editor__tag-bar__tag .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.hierarchy-editor__tag-bar__tag .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.hierarchy-editor__tag-bar__tag .RichTextViewer span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.hierarchy-editor__tag-bar__tag .py-\[2px\] {
+	display: flex;
+}
+
+[aria-label~=Omnibar] span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+[aria-label~=Omnibar] span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+[aria-label~=Omnibar] span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+[aria-label~=Omnibar] span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.search-result__rem-breadcrumbs span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.search-result__rem-breadcrumbs span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.search-result__rem-breadcrumbs span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.search-result__rem-breadcrumbs span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+#search-results__result span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+#search-results__result span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+#search-results__result span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+#search-results__result span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.portal-tree-node-box .rem-text.rem-header--1 span.image-node__container.inline-block,
+.portal-tree-node-box .rem-text.rem-header--2 span.image-node__container.inline-block,
+.portal-tree-node-box .rem-text.rem-header--3 span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.portal-tree-node-box .rem-text.rem-header--1 span.image-node__container.inline-block > div.image-node__container,
+.portal-tree-node-box .rem-text.rem-header--2 span.image-node__container.inline-block > div.image-node__container,
+.portal-tree-node-box .rem-text.rem-header--3 span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.portal-tree-node-box .rem-text.rem-header--1 span.image-node__container.inline-block > div.image-node__container > span.image-node,
+.portal-tree-node-box .rem-text.rem-header--2 span.image-node__container.inline-block > div.image-node__container > span.image-node,
+.portal-tree-node-box .rem-text.rem-header--3 span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.portal-tree-node-box .rem-text.rem-header--1 span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]),
+.portal-tree-node-box .rem-text.rem-header--2 span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]),
+.portal-tree-node-box .rem-text.rem-header--3 span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.portal-tree-node-box .rem-text.rem-header--1 span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width,
+.portal-tree-node-box .rem-text.rem-header--2 span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width,
+.portal-tree-node-box .rem-text.rem-header--3 span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+.portal-tree-node-box > div > .tree-node-container > .tree-node--children > .tree-node-container > .tree-node--parent span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.portal-tree-node-box > div > .tree-node-container > .tree-node--children > .tree-node-container > .tree-node--parent span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.portal-tree-node-box > div > .tree-node-container > .tree-node--children > .tree-node-container > .tree-node--parent span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.portal-tree-node-box > div > .tree-node-container > .tree-node--children > .tree-node-container > .tree-node--parent span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.portal-tree-node-box > div > .tree-node-container > .tree-node--children > .tree-node-container > .tree-node--parent span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.rem-reference span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.rem-reference span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.rem-reference span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.rem-reference span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.rem-reference span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.RichTextViewer.notIncludedAncestor.notIncludedAncestorClickable span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+.rem-text:not(.rem-header--1):not(.rem-header--2):not(.rem-header--3) .rem-reference span.image-node__container.inline-block {
+	height: 1em;
+	width: auto;
+}
+.rem-text:not(.rem-header--1):not(.rem-header--2):not(.rem-header--3) .rem-reference span.image-node__container.inline-block > div.image-node__container {
+	height: 1em !important;
+	width: unset !important;
+	max-width: 1em !important;
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+	min-width: 1em !important;
+	min-height: unset !important;
+}
+.rem-text:not(.rem-header--1):not(.rem-header--2):not(.rem-header--3) .rem-reference span.image-node__container.inline-block > div.image-node__container > span.image-node {
+	-o-object-fit: contain !important;
+	   object-fit: contain !important;
+	-o-object-position: center;
+	   object-position: center;
+}
+.rem-text:not(.rem-header--1):not(.rem-header--2):not(.rem-header--3) .rem-reference span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(1):not(div[data-rmiz-wrap~=visible]) {
+	display: none;
+}
+.rem-text:not(.rem-header--1):not(.rem-header--2):not(.rem-header--3) .rem-reference span.image-node__container.inline-block > div.image-node__container > span.image-node > div:nth-of-type(2) img.thumbnail--with-width {
+	-o-object-fit: contain;
+	   object-fit: contain;
+	-o-object-position: center;
+	   object-position: center;
+}
+
+[data-rem-tags~=header] [data-menu-type=ImageNodeMenu],
+[data-rem-tags~=tn] [data-menu-type=ImageNodeMenu] {
+	display: none;
+}  
